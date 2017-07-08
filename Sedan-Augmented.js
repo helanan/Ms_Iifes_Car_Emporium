@@ -12,7 +12,7 @@ var Sedan = (function(newSedan){
 		} else {
 			throw "Cannot exceed maximum occupancy of" + max_occupancy;
 		}
-		};
+	};
 	newSedan.getType = function(){
 		return "minivan";
 	};
