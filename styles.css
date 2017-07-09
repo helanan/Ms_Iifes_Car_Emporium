@@ -4,6 +4,44 @@ body {
   padding-bottom: 20px;
 }
 
+/*fonts*/
+
+h1 {
+  font-family: 'Rubik', sans-serif;
+}
+
+button {
+    font-family: 'Rubik', sans-serif;
+    border-radius: 0px !important;
+}
+
+.lead {
+  font-family: 'BioRhyme', serif;
+}
+
+.panel-heading {
+  font-family: 'Rubik', sans-serif;
+  border-radius: 0px;
+}
+
+.panel-default {
+    border-color: rgba(255, 99, 67, 0.35)!important;
+}
+
+/*cars*/
+#car_image,
+#car_image2,
+#car_image3,
+#car_image4,
+#car_image5,
+#car_image6 {
+  width: 100% !important;
+}
+
+.button_block {
+  margin-right: 10%;
+  margin-left: 35%;
+}
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
