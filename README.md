@@ -1,5 +1,6 @@
 # MISS IIFE'S CAR EMPORIUM
 Using immediately augmented invoked functions to display single page car application
+![Miss_IIFE's_Car_Emporium](http://res.cloudinary.com/emma/image/upload/v1499654916/Ms_Iifes_Carlot_nqfdpk.jpg)
 
 ## Getting Started
 **IIFE's** are crucial in web development and are essential in web development due to its amazing ability to conserve data privacy. Below is a brief overview of what IIFE's offer:
